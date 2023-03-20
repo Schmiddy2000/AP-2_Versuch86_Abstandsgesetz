@@ -6,7 +6,7 @@ This repository contains the python code used to analyse the data from our colle
 
 1) Import all libraries from 'main.py'.
 2) Copy all functions from functions.py into one box.
-3) Copy the wanted data (from data1.py and/or data2.py) into another box. It's easier to use a separate boxes for each data set.
+3) Copy the wanted data (except the imports) from data1.py and/or data2.py into another box. It's easier to use a separate boxes for each data set.
 4) Remove 'f.' as a prefix from all function calls (that have this prefix).
 5) Run the functions used to create the plots (i.e. 'MakeBasicPlotOne()'. This can be done in the same or a separate box.
 
